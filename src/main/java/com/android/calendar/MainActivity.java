@@ -1,4 +1,4 @@
-package com.example.flyme7demo;
+package com.android.calendar;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.example.flyme7demo.R;
 import com.drivemode.settings.DriveModeSettingsActivity;
+import com.example.flyme7demo.R;
 import com.map.demo.MapActivity;
 import com.musicplayer.demo.MediaActivity;
 

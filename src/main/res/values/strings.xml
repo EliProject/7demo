@@ -15,4 +15,28 @@
     <!--地图相关的-->
     <string name="navagation">导航</string>
     <string name="select_maps">请选择地图</string>
+
+
+
+
+    <!--设置相关的-->
+    <string name="settings_drivemode">驾驶模式</string>
+    <string name="settings_bluetooth_start">连接车载蓝牙时启动</string>
+    <string name="settings_bluetooth_start＿tips">连接车载蓝牙后自动启动驾驶模式</string>
+
+    <string name="settings_drivemode_devices">车载蓝牙设备</string>
+    <string name="settings_drivemode_no_devices">没有蓝牙设置</string>
+
+    <string name="settings_car_auto_play_music">自动播放音乐</string>
+    <string name="settings_car_auto_play_music_tips">驾驶模式后自动播放音乐</string>
+
+    <string name="settings_home">家</string>
+    <string name="settings_home_tips">暂未设置</string>
+
+    <string name="settings_company">公司</string>
+    <string name="settings_company_tips">暂未设置</string>
+
+
+    <string name="settings_exit_drivemode">退出驾驶模式</string>
+
 </resources>

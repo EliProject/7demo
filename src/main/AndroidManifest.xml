@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.flyme7demo">
 
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" ></uses-permission>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -44,6 +46,7 @@
         <activity android:name="com.map.demo.MapActivity" ></activity>
         <activity android:name="com.musicplayer.demo.MediaActivity" ></activity>
         <activity android:name="com.drivemode.bluetooth.ConnectingBlueToothActivity" ></activity>
+        <activity android:name="com.drivemode.settings.DriveModeSettingsActivity" ></activity>
     </application>
 
 </manifest>

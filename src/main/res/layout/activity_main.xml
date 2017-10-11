@@ -22,4 +22,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="蓝牙连接" />
+
+
+    <Button
+        android:id="@+id/setttings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="驾驶模式设置页面" />
 </LinearLayout>
